@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello stranger ! My name is Arthur Pyre and welcome to my GitHub.
+I'm a junior data engineer looking for opportunities.
 
 <!--
 **ArtPyre/ArtPyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
