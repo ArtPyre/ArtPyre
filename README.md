@@ -1,6 +1,6 @@
 ### Hello stranger ! My name is Arthur Pyre and welcome to my GitHub.
 - I'm a junior data engineer looking for opportunities.
-- I'm currently searching for an internchip near Liège.
+- I'm currently searching for a job near Liège.
 - Follow me on my [LinkedIn](https://www.linkedin.com/in/arthur-pyre/) !
 
 <!--
